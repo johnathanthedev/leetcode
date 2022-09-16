@@ -1,10 +1,12 @@
 # Leetcode problems & solutions
 
 File pattern:
-|
-|
--- name-of-leetcode-problem
-  |
-  -- solution.rb
-  -- solution.js
-  -- solution.py
+<br/>
+problem-1 <br/>
+  solution.rb <br/>
+  solution.js <br/>
+  solution.py <br/>
+problem-2 <br/>
+  solution.rb <br/>
+  solution.js <br/>
+  solution.py <br/>
